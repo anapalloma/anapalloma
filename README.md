@@ -50,4 +50,4 @@ My name is Ana Palloma, I am a Data Scientist.
 
 - **2019 - currently -> Federal Institute of North of Minas Gerais** <br> Bachelor in Information Systems.
 
-- **2011 - 2015 -> Federal University of Ouro Preto** <br> Bachelor of Administration <br> Usase of Autoregressive Moving Average Model for Brazilian cotton price forecasting.
+- **2011 - 2015 -> Federal University of Ouro Preto** <br> Bachelor of Administration <br> Usage of Autoregressive Moving Average Model for Brazilian cotton price forecasting.
