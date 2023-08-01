@@ -2,7 +2,7 @@
 
 My name is Ana Palloma, I am a Data Scientist. 
 
-- 🔭 I’m currently working on developing an application that aims to facilitate the process of cleaning and processing data from the Notifiable Diseases Information System (SINAN).
+- 🔭I leverage statistical analysis and programming skills to uncover valuable insights from data, empowering informed decision-making.
 
 ---
 
