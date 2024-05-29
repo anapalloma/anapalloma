@@ -24,7 +24,7 @@ My name is Ana Palloma, I am a Data Scientist.
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank">
 </div>
 
-## 🚀 Frameworks/Dev tools 💻
+## 🚀 Dev tools 💻
 <div>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank">
