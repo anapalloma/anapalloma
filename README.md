@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Ana Palloma, I am a Data Scientist. 
-
-- 🔭I leverage statistical analysis and programming skills to uncover valuable insights from data, empowering informed decision-making.
+My name is Ana Palloma, I am a Python Full Stack Development.
 
 ---
 
@@ -42,6 +40,7 @@ My name is Ana Palloma, I am a Data Scientist.
 </div>
 
 # 💻 Experience 👔
+- **2024 - currently -> Solidarity Coffee Institute** <br> Full Stack Python Programming Teacher <br>
 - **2022 - currently -> Municipal City Hall of Pirapora** <br> Python Developer <br>
 - **2017 - 2019 -> United Colleges of Northern Minas** <br> Assistant Professor <br> 
 
