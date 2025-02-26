@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ana Palloma, I am a Python Full Stack Development.
+My name is Ana Palloma, I am a Data Analyst.
 
 ---
 
@@ -40,8 +40,8 @@ My name is Ana Palloma, I am a Python Full Stack Development.
 </div>
 
 # 💻 Experience 👔
-- **2024 - currently -> Solidarity Coffee Institute** <br> Full Stack Python Programming Teacher <br>
-- **2022 - currently -> Municipal City Hall of Pirapora** <br> Python Developer <br>
+- **2016 - currently -> Municipal City Hall of Pirapora** <br> Python Developer <br>
+- **2024 -> Solidarity Coffee Institute** <br> Full Stack Python Programming Teacher <br>
 - **2017 - 2019 -> United Colleges of Northern Minas** <br> Assistant Professor <br> 
 
 # 📚 Academic education 📖
