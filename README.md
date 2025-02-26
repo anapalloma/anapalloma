@@ -33,7 +33,7 @@ My name is Ana Palloma, I am a Data Analyst.
 </div>
 
 # 💻 Experience 👔
-- **2016 - currently -> Municipal City Hall of Pirapora** <br> Python Developer <br>
+- **2016 - currently -> Municipal City Hall of Pirapora** <br> Data Analyst <br>
 - **2024 -> Solidarity Coffee Institute** <br> Full Stack Python Programming Teacher <br>
 - **2017 - 2019 -> United Colleges of Northern Minas** <br> Assistant Professor <br> 
 
